@@ -1,4 +1,5 @@
-"""Assignment 2: Modelling Population Data
+"""
+Modelling Population Data
 
 === CSC148 Fall 2016 ===
 Diane Horton and David Liu
@@ -14,24 +15,6 @@ AbstractTree subclass, we can then run it through our treemap visualisation
 tool to get a nice interactive graphical representation of this data.
 
 NOTE: You'll need an Internet connection to access the World Bank API
-to get started working on this assignment.
-
-Recommended steps:
-1. Read through all docstrings in this files once. There's a lot to take in,
-   so don't feel like you need to understand it all the first time.
-   It may be helpful to draw a small diagram of how all the helper functions
-   fit together - we've provided most of the structure for you already.
-2. Complete the helpers _get_population_data and _get_region_data.
-   Both of these can be completed without recursion or any use of trees
-   at all: they are simply exercises in taking some complex JSON data,
-   and extracting the necessary information from them.
-3. Review the PopulationTree constructor docstring. Note that when the first
-   parameter is set to False, this behaves exactly the same as the
-   AbstractTree constructor.
-4. Complete _load_data. Use the PopulationTree constructor, but you should
-   only need to pass in False for the first argument (this allows you to
-   create the region and country nodes directly, without trying to access
-   the World Bank API again).
 
 Finished by James Park
 """
