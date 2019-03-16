@@ -5,8 +5,6 @@ It is responsible for initializing an instance of AbstractTree (using a
 concrete subclass, of course), rendering it to the user using pygame,
 and detecting user events like mouse clicks and key presses and responding
 to them.
-
-Finished by James Park
 """
 import math
 import pygame
