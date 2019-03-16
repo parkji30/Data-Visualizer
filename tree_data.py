@@ -1,11 +1,5 @@
 """
-=== Module Description ===
-This module contains the basic tree interface required by the treemap
-visualiser. You will both add to the abstract class, and complete a
-concrete implementation of a subclass to represent files and folders on your
-computer's file system.
-
-Finished by James Park
+Using GUI to visualize the byte size of files in a repository through recursive methods.
 """
 import os
 from random import randint
@@ -16,10 +10,6 @@ class AbstractTree:
     """A tree that is compatible with the treemap visualiser.
 
     This is an abstract class that should not be instantiated directly.
-
-    You may NOT add any attributes, public or private, to this class.
-    However, part of this assignment will involve you adding and implementing
-    new public *methods* for this interface.
 
     === Public Attributes ===
     @type data_size: int
