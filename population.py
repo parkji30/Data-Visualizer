@@ -1,11 +1,6 @@
 """
 Modelling Population Data
 
-=== CSC148 Fall 2016 ===
-Diane Horton and David Liu
-Department of Computer Science,
-University of Toronto
-
 === Module Description ===
 This module contains a new class, PopulationTree, which is used to model
 population data drawn from the World Bank API.
