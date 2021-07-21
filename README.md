@@ -32,6 +32,6 @@ Update the <b>path</b> variable to the desired pathing to see the graphical repr
 
 Then, simply type 
 ```python3 treemap_visualizer.py``` in the terminal
-to get something like
+to see a beautiful picture of your files.
 
 <img width="1022" alt="demo" src="https://user-images.githubusercontent.com/28542017/126533112-d8f65dd8-ff68-4b9e-8047-20919887ca17.png">
