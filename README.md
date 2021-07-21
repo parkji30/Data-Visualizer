@@ -33,5 +33,7 @@ if __name__ == '__main__':
 Update the path variable to the desired pathing to see the graphical representation of the file sizes within a folder.
 
 Then, simply type 
-```python3 treemap_visualizer.py in the terminal```
+```python3 treemap_visualizer.py``` in the terminal
 To get something like
+
+
