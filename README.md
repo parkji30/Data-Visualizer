@@ -19,7 +19,7 @@ Running the Program
 -------------------
 You will have to manually adjust the desired pathing for the folder you wish to look at. 
 
-In ```python treemap_visualizer.py```
+In ```treemap_visualizer.py```
 
 The following code at the bottom of the file is shown.
 
