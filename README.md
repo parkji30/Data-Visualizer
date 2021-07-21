@@ -34,6 +34,6 @@ Update the <b>path</b> variable to the desired pathing to see the graphical repr
 
 Then, simply type 
 ```python3 treemap_visualizer.py``` in the terminal
-To get something like
+to get something like
 
 
