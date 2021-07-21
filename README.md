@@ -1,7 +1,5 @@
 # Treemap Visualizer
-Visually representing byte size of files by creating a Tree.
-
-The nodes of the tree are individual data files. 
+Visually showing byte size of files by creating a tree filled with nodes representing each file within a folder.
 
 
 Dependencies
