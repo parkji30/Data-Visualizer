@@ -34,4 +34,5 @@ Then, simply type
 ```python3 treemap_visualizer.py``` in the terminal
 to get something like
 
+<img> demo.png</img>
 
