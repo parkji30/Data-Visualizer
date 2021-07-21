@@ -418,8 +418,3 @@ class FileSystemTree(AbstractTree):
             route += self._parent_tree.get_separator()
             route += ("\\" + str(self._root))
         return route
-
-
-if __name__ == '__main__':
-    import python_ta
-    python_ta.check_all(config='pylintrc.txt')

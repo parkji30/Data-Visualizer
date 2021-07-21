@@ -8,6 +8,7 @@ to them.
 """
 import math
 import pygame
+import sys
 
 from tree_data import FileSystemTree
 from population import PopulationTree
@@ -191,9 +192,6 @@ def set_selected_leaf(leaf_info, selected_leaf):
 
 
 if __name__ == '__main__':
-    import python_ta
-    python_ta.check_all(config='pylintrc.txt')
-
-    path1 = "C:/Users/James Park/Desktop/music"
-    fst = FileSystemTree(path1)
+    path = '/Users/a16472/Desktop/Balco'
+    fst = FileSystemTree(path)
     run_visualisation(fst)

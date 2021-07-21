@@ -15,7 +15,6 @@ Finished by James Park
 """
 import json
 import urllib.request as request
-
 from tree_data import AbstractTree
 
 
@@ -207,8 +206,3 @@ def _get_json_data(url):
     """
     response = request.urlopen(url)
     return json.loads(response.read().decode())
-
-
-if __name__ == '__main__':
-    import python_ta
-    python_ta.check_all(config='pylintrc.txt')
