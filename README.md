@@ -9,7 +9,6 @@ The following packages will need to be installed with pip prior to running the p
 
 ```python
 import pygame
-import python_ta
 ```
 
 
