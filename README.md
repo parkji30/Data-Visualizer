@@ -1,5 +1,5 @@
 # Treemap Visualizer
-A Python program that uses trees and recursion to visually show the byte size of each file in a folder hierarchy.
+A Python program that uses trees, nodes and recursion to visually show the byte size of each file in a folder hierarchy.
 
 
 Dependencies
