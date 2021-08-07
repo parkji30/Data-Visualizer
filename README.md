@@ -27,7 +27,7 @@ if __name__ == '__main__':
     run_visualisation(fst)
 ```
 
-Update the <b>path</b> variable to the desired pathing to see the graphical representation of the file sizes within a folder.
+Update the <b>path</b> variable to the desired pathing to any folder located on your computer.
 
 Then, simply type 
 ```python3 treemap_visualizer.py``` in the terminal
